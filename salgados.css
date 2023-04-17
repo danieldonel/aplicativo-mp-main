@@ -67,46 +67,25 @@ body
         border:2px solid #EF5867;
     }
 
-    .textobolo
+    .textopao
     {
-        margin-left: 25px;
-        margin-top: 75px;
-    }
-
-    .textosonho
-    {
-        margin-left: 40px;
-        margin-top: 75px;
-    }
-
-    .textobrownie
-    {
-        margin-left: 80px;
+        margin-left: 55px;
         margin-top: 75px;
     }
 
     .textomisto
     {
-        margin-left: 35px;
+        margin-left: 60px;
         margin-top: 75px;
     }
 
-    .quadradinhobolo
+    .textopastel
     {
-        display: flex;
-        justify-content: center;
-        justify-items: center;
-        align-items: center;
-        align-content: center;
-        width: 130px;
-        height: 25px;
-        background-color: #EF5867;
-        margin-top: 30px;
-        margin-left: 25px;
-        color: white;
+        margin-left: 90px;
+        margin-top: 75px;
     }
 
-    .quadradinhosonho
+    .quadradinhopao
     {
         display: flex;
         justify-content: center;
@@ -117,22 +96,7 @@ body
         height: 25px;
         background-color: #EF5867;
         margin-top: 30px;
-        margin-left: 15px;
-        color: white;
-    }
-
-    .quadradinhobrownie
-    {
-        display: flex;
-        justify-content: center;
-        justify-items: center;
-        align-items: center;
-        align-content: center;
-        width: 130px;
-        height: 25px;
-        background-color: #EF5867;
-        margin-top: 30px;
-        margin-left: -25px;
+        margin-left: 0px;
         color: white;
     }
 
@@ -147,7 +111,24 @@ body
         height: 25px;
         background-color: #EF5867;
         margin-top: 30px;
-        margin-left: 0px;
+        margin-left: -5px;
+        color: white;
+    }
+
+
+
+    .quadradinhopastel
+    {
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        align-content: center;
+        width: 130px;
+        height: 25px;
+        background-color: #EF5867;
+        margin-top: 30px;
+        margin-left: -30px;
         color: white;
     }
 
